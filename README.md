@@ -15,17 +15,15 @@ It is a good choice for this problem because:
 
 # Demo video/gif/screenshot of test
 
-- Normal Case
+### Normal Case
+![Normal Case](normal.png)
 
-  - (normal.png)
+### Edge Case
+![Edge Case](edge.png)
 
-- Edge Case (Single Stop)
+### Error Case
+![Error Case](error.png)
 
-  - (edge.png)
-
-- Error Case (Invalid Input)
-
-   - (error.png)
 
 # Problem Breakdown & Computational Thinking
 
@@ -80,8 +78,7 @@ Output:
 - Final ranked list of shuttle stops from highest to lowest crowd count
 
 ### Flowchart
-
-(flowchart.png)
+![Flowchart](flowchart.png)
 
 ## Steps to Run
 
@@ -131,12 +128,12 @@ The app will:
 
 - display step-by-step Merge Sort operations show the final ranked list from highest to lowest crowd count
 
-Hugging Face Link
+# Hugging Face Link
 
 https://huggingface.co/spaces/yasoon123/cisc121-shuttle-merge-sort
 
 
-Author & AI Acknowledgment
+# Author & AI Acknowledgment
 
 Author: Yaseen Masoud
 
